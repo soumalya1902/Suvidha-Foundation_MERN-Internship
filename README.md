@@ -3,7 +3,7 @@
 This repository houses the codebase for the Suvidha Foundation NGO website, a single-page application (SPA) developed using React. This project is the result of an internship under the Suvidha Foundation, aimed at creating a dynamic and informative platform for the NGO's online presence.
 
 ## Hosted link
-https://ayush-suvidha-foundation.netlify.app/
+
 
 ## Project Overview
 
